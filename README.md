@@ -15,7 +15,7 @@
 
 ---
 
-### Linguagens de Programação e ferramentas/ Programming languages ​​and tools
+### *Linguagens de Programação e ferramentas*/ *Programming languages ​​and tools*
 
 ### **Front End**:
 >> ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)   ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)   ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)   ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-EC1C24?logo=adobeindesign&logoColor=fff&style=for-the-badge)  
