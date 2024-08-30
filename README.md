@@ -41,7 +41,7 @@
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
   
-![Snake animation](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
