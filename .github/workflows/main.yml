@@ -10,11 +10,23 @@ jobs:
           github_user_name: buenosdev
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step to change the background color of the SVG
+      # Install Python
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      # Step to change the background color of the SVG using Python
       - name: Change SVG Background Color
         run: |
-          sed -i 's/<svg/<svg style="background-color:#FFFFFF"/' dist/github-contribution-grid-snake.svg
-          
+          python -c "
+import xml.etree.ElementTree as ET
+tree = ET.parse('dist/github-contribution-grid-snake.svg')
+root = tree.getroot()
+root.set('style', 'background-color:#FFFFFF')
+tree.write('dist/github-contribution-grid-snake.svg')
+          "
+
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
