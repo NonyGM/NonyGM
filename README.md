@@ -41,12 +41,10 @@
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
   
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buenosdev&title_color=8A2BE2&text_color=8A2BE2&theme=transparent" alt="GitHub Details" style="display: inline-block; margin: 0 10px;" />
-  </a>
+![Snake animation](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
-![Snake animation](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1&section=footer" alt="bottom"/>
