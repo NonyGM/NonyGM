@@ -47,7 +47,6 @@
 </div>
 
 
+![Snake animation](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
 
-
-<!-- Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1&section=footer" alt="bottom"/>
