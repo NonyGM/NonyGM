@@ -1,62 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=header" alt="top"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1&section=header" alt="top"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=8A2BE2&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=4169E1&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
 
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buenosdev&bg_color=transparent&color=8A2BE2&line=6A0D91&point=8A2BE2&area=true&hide_border=true)](https://github.com/buenosdev/github-readme-activity-graph)
+---
 
-<br>
-<br>
+### Conecte-se comigo/ Connect with me
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=buenosdev&rank_icon=github&count_private=true&hide_border=true&title_color=8A2BE2&hide=contribs,issues&icon_color=8A2BE2&text_color=8A2BE2&theme=transparent" alt="Davi Bueno github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&theme=transparent" alt="MostUsedLanguages" />
-</div>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenosdev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibuenocgd@gmail.com "davibuenocgd@gmail.com")
 
-<br>
-<br>
+---
 
-### $\textcolor{#8A2BE2}{Main\ Skills}$:
-![HTML](https://img.shields.io/badge/HTML5-8A2BE2?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-8A2BE2?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/Python-8A2BE2?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-8A2BE2?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-8A2BE2?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
+### Linguagens de Programação e ferramentas/ Programming languages ​​and tools
 
-### $\textcolor{#8A2BE2}{Tools}$:
+### **Front End**:
+>> ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)  
+>> ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)  
+>> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
+>> ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)  
+>> ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)  
+>> ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)  
+>> ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-EC1C24?logo=adobeindesign&logoColor=fff&style=for-the-badge)  
 
-![Git](https://img.shields.io/badge/Git-8A2BE2?logo=git&logoColor=fff&style=for-the-badge)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?logo=github&logoColor=fff&style=for-the-badge)&nbsp;
-![Colab](https://img.shields.io/badge/Google%20Colab-8A2BE2?logo=googlecolab&logoColor=fff&style=for-the-badge)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-8A2BE2?logo=mysql&logoColor=fff&style=for-the-badge)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-8A2BE2?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
-![Adobe](https://img.shields.io/badge/Adobe-8A2BE2?logo=adobe&logoColor=fff&style=for-the-badge)&nbsp;
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-8A2BE2?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-8A2BE2?logo=adobephotoshop&logoColor=fff&style=for-the-badge)&nbsp;
-![Indesign](https://img.shields.io/badge/Adobe%20InDesign-8A2BE2?logo=adobeindesign&logoColor=fff&style=for-the-badge)&nbsp;
+### **Back End**:
+>> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)  
+>> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
 
-### $\textcolor{#8A2BE2}{Other\ Knowledge}$:
+### **Ferramentas**/ **Tools**:
+>> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)  
+>> ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)  
+>> ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge)  
+>> ![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=fff&style=for-the-badge)  
 
-![HTML](https://img.shields.io/badge/HTML5-8A2BE2?logo=html5&logoColor=fff&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-8A2BE2?logo=css3&logoColor=fff&style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/Python-8A2BE2?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?logo=javascript&logoColor=fff&style=for-the-badge)&nbsp;
-
-### $\textcolor{#8A2BE2}{Studying\ in\ this\ moment}$:
-
-![C++](https://img.shields.io/badge/C%2B%2B-8A2BE2?logo=cplusplus&logoColor=fff&style=for-the-badge)&nbsp; 
-![Python](https://img.shields.io/badge/Python-8A2BE2?logo=python&logoColor=fff&style=for-the-badge)&nbsp;
-
-<div align="right">  
-<a href="https://www.linkedin.com/in/buenosdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?logo=linkedin&logoColor=fff&style=for-the-badge"</a>
-</div> 
+### **Estudando no momento**/ **Studying in this moment**:
+>> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)  
+>> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)  
+---
 
 <div align="center">
-  <a href="https://github.com/buenosdev">
+  
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buenosdev&theme=transparent" alt="GitHub Commits" style="display: inline-block; margin: 0 10px;" />
+  </a>
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
+  
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buenosdev&title_color=8A2BE2&text_color=8A2BE2&theme=transparent" alt="GitHub Details" style="display: inline-block; margin: 0 10px;" />
   </a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer" alt="bottom"/>
+
+
+
+
+<!-- Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1&section=footer" alt="bottom"/>
