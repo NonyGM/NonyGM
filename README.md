@@ -43,7 +43,7 @@
   
 </div>
 
-![snake-gif](https://github.com/buenosdev/buenosdev/blob/output/dist/github-contribution-grid-snake.svg)
+![snake-gif](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1&section=footer" alt="bottom"/>
