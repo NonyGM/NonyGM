@@ -1,14 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1&section=header" alt="top"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=header" alt="top"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=4169E1&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=5353ec&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
+<div align="center">  
 
+</div>
 <br>
 <br>
 
 ---
 
-### Conecte-se comigo/ Connect with me
+### *Conecte-se comigo*/ *Connect with me*
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenosdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibuenocgd@gmail.com "davibuenocgd@gmail.com")
@@ -29,26 +31,11 @@
 
 ### **Estudando no momento**/ **Studying in this moment**:
 >> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)  
->> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
->> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
----
+>> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)     
+>> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
-<div align="center">
-  
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buenosdev&theme=transparent" alt="GitHub Commits" style="display: inline-block; margin: 0 10px;" />
-  </a>
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buenosdev&title_color=8A2BE2&text_color=8A2BE2&theme=transparent" alt="GitHub Details" style="display: inline-block; margin: 0 10px;" />
-  </a>
-
-![Snake animation](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+### **Linguagens mais usadas**/ **Most Used Languages**:
+>>   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&hide_title=true&title_color=FFFFFF&text_color=6262dd&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
 
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4169E1&section=footer" alt="bottom"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
