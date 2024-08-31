@@ -43,6 +43,8 @@
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buenosdev&title_color=8A2BE2&text_color=8A2BE2&theme=transparent" alt="GitHub Details" style="display: inline-block; margin: 0 10px;" />
   </a>
+
+![Snake animation](https://github.com/buenosdev/buenosdev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
