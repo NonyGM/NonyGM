@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=header" alt="top"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=5353ec&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
-<div align="center">  
 
-</div>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=5353ec&center=true&vCenter=true&size=40&width=1000&lines=%E2%9C%A7+HELLO,+MY+NAME+is+Davi+Bueno+%E2%9C%A7;I'm+17+years+old;I'm+a+Front-End+Web+Developer;I+study+systems+development+at+Senac+Hub;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <br>
 
 ---
@@ -14,6 +12,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenosdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibuenocgd@gmail.com "davibuenocgd@gmail.com")
+
+![background2](https://github.com/user-attachments/assets/f5ed3436-4051-4d1d-8e36-48ad3adf7929)
 
 ---
 
@@ -35,7 +35,7 @@
 >> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
 ### **Linguagens mais usadas**/ **Most Used Languages**:
->>   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&hide_title=true&title_color=FFFFFF&text_color=6262dd&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
+>>   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&hide_title=true&title_color=FFFFFF&text_color=5353ec&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
