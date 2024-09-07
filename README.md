@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenosdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibuenocgd@gmail.com "davibuenocgd@gmail.com")
 
-![background2](https://github.com/user-attachments/assets/f5ed3436-4051-4d1d-8e36-48ad3adf7929)
+![background](https://github.com/user-attachments/assets/2db68790-7dc2-454e-a0b7-4479ff71b7be)
 
 ---
 
