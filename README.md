@@ -13,8 +13,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenosdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibuenocgd@gmail.com "davibuenocgd@gmail.com")
 
-![background](https://github.com/user-attachments/assets/2db68790-7dc2-454e-a0b7-4479ff71b7be)
-
 ---
 
 ### *Linguagens de Programação e ferramentas*/ *Programming languages ​​and tools*
