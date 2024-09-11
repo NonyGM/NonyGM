@@ -35,7 +35,7 @@
 >> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
 ### **Linguagens mais usadas**/ **Most Used Languages**:
->>   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&hide_title=true&title_color=FFFFFF&text_color=5353ec&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
+>>   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&hide_title=true&title_color=FFFFFF&text_color=5353ec&theme=transparent" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
