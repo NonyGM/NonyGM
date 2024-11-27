@@ -12,7 +12,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenosdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibuenocgd@gmail.com "davibuenocgd@gmail.com")
-
+<br>
+<a href="https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129"><img src="https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg" alt="Total time coded since Aug 14 2024" /></a>
 ---
 
 ### *Linguagens de Programação e ferramentas*/ *Programming languages ​​and tools*
