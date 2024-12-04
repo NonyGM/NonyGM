@@ -28,7 +28,8 @@
 
 
 ### **Linguagens mais usadas**/ **Most Used Languages**:
->>   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev&layout=compact&hide_border=true&hide_title=true&title_color=FFFFFF&text_color=5353ec" alt="MostUsedLanguages" style="display: inline-block; vertical-align: top;" />
+>>   [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
