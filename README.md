@@ -33,7 +33,7 @@
 
 
 ### **Linguagens mais usadas**/ **Most Used Languages**:
->>   [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+>>   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev\&show_icons=true\&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 
 
