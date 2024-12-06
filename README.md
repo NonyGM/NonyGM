@@ -24,17 +24,7 @@
 >> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)&nbsp;
 >> ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
 
-### **Estudando no momento**/ **Studying in this moment**:
->> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)  
->> ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)     
->> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
->> ![PHP](https://img.shields.io/badge/PHP-4479A1?logo=php&logoColor=fff&style=for-the-badge)
-
-
-
 ### **Linguagens mais usadas**/ **Most Used Languages**:
->>   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev\&show_icons=true\&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-
-
+>>   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev\&show_icons=true\&theme=dark#gh-dark-mode-only)https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
