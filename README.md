@@ -25,6 +25,6 @@
 >> ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
 
 ### **Linguagens mais usadas**/ **Most Used Languages**:
->>   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev\&show_icons=true\&theme=dark#gh-dark-mode-only)https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only
+>>   ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=buenosdev\&show_icons=true\&theme=dark#gh-dark-mode-only)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
