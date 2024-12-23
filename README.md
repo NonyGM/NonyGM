@@ -14,8 +14,6 @@
 > ### *Conecte-se comigo*/ *Connect with me*
 >> [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenosdev/)
 >> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davibuenocgd@gmail.com "davibuenocgd@gmail.com")
->> 
->>  <a href="https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129"> <img src="https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg"></a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
