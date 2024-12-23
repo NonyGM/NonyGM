@@ -11,4 +11,6 @@
 >> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)&nbsp;
 >> ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
 
+[![Horas programando](https://wakatime.com/badge/user/14e75f44-94d0-4ad8-9a79-459b03179129.svg)](https://wakatime.com/@14e75f44-94d0-4ad8-9a79-459b03179129)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=5353ec&section=footer" alt="bottom"/>
